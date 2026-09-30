@@ -1,4 +1,5 @@
 This repository contains a collection of SQL tasks and practice exercises completed to strengthen my understanding of SQL and database concepts. The tasks demonstrate my ability to write and execute SQL queries for retrieving, filtering, sorting, grouping, and analyzing data.
+
 📚 Topics Covered :-
 - SQL queries and commands
 - Data retrieval and filtering
